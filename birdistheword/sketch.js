@@ -22,6 +22,7 @@ h=random(1000);
 
     if (pipes[i].hits(bird)) {
       console.log("HIT");
+document.location.reload()
     }
 
 
